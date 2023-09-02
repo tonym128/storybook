@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>A Tale of Two Cities by Charles Dickens</title>
+    <itunes:owner>
+        <itunes:email>tmamacos@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Charles Dickens</itunes:author>
+    <description>A Tale of Two Cities by Charles Dickens, read by Piper Text to Speech</description>
+    <itunes:image href="https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg"/>
+    <language>en-us</language>
+    <link>https://github.com/tonym128/storybook/</link>
+    <item>
+      <title>A Tale of Two Cities by Charles Dickens - 1</title>
+      <description>A Tale of Two Cities by Charles Dickens - 1</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/tonym128/storybook/raw/master/bookaudio/A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens%20-%201.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="true">1</guid>
+    </item>
+  </channel>
+</rss>
