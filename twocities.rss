@@ -411,7 +411,7 @@
       <title>A Tale of Two Cities by Charles Dickens - 45.mp3</title>
       <description>A Tale of Two Cities by Charles Dickens - 45.mp3</description>
       <pubDate>Sun, 03 Sep 2023 02:25:44 </pubDate>
-      <enclosure url="https://raw.githubusercontent.com/tonym128/storybook/master/bookaudio/A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens%20-%2045.mp3"
+      <enclosure url="https://github.com/tonym128/storybook/raw/master/bookaudio/A%20Tale%20of%20Two%20Cities%20by%20Charles%20Dickens%20-%2045.mp3"
                  type="audio/mpeg" length="2741308"/>
       <itunes:duration>11:25</itunes:duration>                    
       <guid isPermaLink="true">45</guid>
